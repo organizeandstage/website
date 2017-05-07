@@ -1,12 +1,10 @@
-# website
-Working on Bootstrap website
-<html lang="en" class="gr__gabriellelaguisma_com"><head>
+<html lang="en" class="JL__organizeandstage_com"><head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="I'm a nuclear engineer in the making, a physical chemist studied in biofuel alternatives, and a wine aficionado &amp; enthusiast. Gabrielle Anne Lapena Laguisma. Gabrielle Laguisma. Gabrielle Anne. Gabie Laguisma. Gabie. Lasagna. gllaguisma. gabstertonian. gabatron.">
-	<meta name="author" content="Gabrielle Anne L. Laguisma">
+	<meta name="description" content="I'm a nuclear engineer in the making, a physical chemist studied in biofuel alternatives, and a wine aficionado &amp; enthusiast.">
+	<meta name="author" content="JN Lester ">
 	
-	<title> Gabie Laguisma </title>
+	<title> Organize and Stage </title>
 	
 	<!-- CSS -->
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -45,9 +43,9 @@ Working on Bootstrap website
 				<ul class="nav navbar-nav navbar-right">
 	
 					<li><a href="#totop">Home</a></li>
-					<li><a href="#works" class="section-scroll">Occupation</a></li>
-					<li><a href="#mastersworks" class="section-scroll">M.Eng Work</a></li>
-					<li><a href="#undergradworks" class="section-scroll">B.S. Works</a></li>
+					<li><a href="#portfolio" class="section-scroll">Occupation</a></li>
+					<li><a href="#stage" class="section-scroll">M.Eng Work</a></li>
+					<li><a href="#organize" class="section-scroll">B.S. Works</a></li>
 					<li><a href="#about" class="section-scroll">About</a></li>
 					<li><a href="#contact" class="section-scroll">Contact</a></li>
 
@@ -70,10 +68,10 @@ Working on Bootstrap website
 		<div class="hs-caption">
 			<div class="caption-content">
 				<div class="hs-title-size-1 font-alt mb-40">
-					<span class="rotate" style="text-shadow: black 0px 0px 9px; opacity: 0.531395;"> Nuclear Engineer </span>
+					<span class="rotate" style="text-shadow: black 0px 0px 9px; opacity: 0.531395;"> Organize and Stage </span>
 				</div>
 				<div class="hs-title-size-3 font-alt mb-30">
-					Gabrielle Anne Laguisma
+					JN Lester
 				</div>
 				<a href="#works" class="section-scroll btn btn-border-w btn-round"> What I'm Up To </a>
 			</div>
